@@ -3,4 +3,6 @@ test test test
 
 git clone
 
-edit in remote 
+edit in remote
+
+test in github
